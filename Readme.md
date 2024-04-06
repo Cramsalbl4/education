@@ -1,15 +1,13 @@
 # Описание проекта
 
-Этот репозиторий содержит мои учебные проекты по информатике.
+My name is Oleg. I'm student of College of Production Automation.
+I live in Saint-Petersburg and I'm 19 y.o
 
-## Структура репозитория
+## My Hobbies
 
-- `project1/`: Описание проекта 1
-- `project2/`: Описание проекта 2
+- Fullstack development (Java Script)
+- Backend (python)
+- System and Networking Administration (my specialization in College, not hobby).
 
-## Инструкции по установке
+Besides I'm studying in The International Banking Institute in the evening (by correspondence).
 
-1. Клонируйте репозиторий: `git clone https://github.com/your_username/your_repository.git`
-2. Перейдите в папку проекта: `cd your_repository`
-3. Выполните необходимые действия для установки зависимостей.
-4. Запустите проект.
