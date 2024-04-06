@@ -1,4 +1,4 @@
-# About me
+# Information about me
 
 My name is Oleg. I'm student of College of Production Automation.
 I live in Saint-Petersburg and I'm 19 y.o
